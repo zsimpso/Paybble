@@ -1,0 +1,22 @@
+{
+    "appKeys": {
+        "KEY_NAME": 2,
+        "KEY_NUM": 1
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "wearebob@gmail.com",
+    "longName": "Payyble",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Payyble",
+    "uuid": "6b0cc4ec-05bc-455b-9ff9-ae0c235c9737",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
